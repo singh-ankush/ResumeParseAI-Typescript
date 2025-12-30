@@ -1,0 +1,58 @@
+{
+  "name": "John W. Smith",
+  "email": "jwsmith@colostate.edu",
+  "phone": "",
+  "skills": [
+    "Early childhood development",
+    "Special needs care",
+    "Client database management",
+    "Volunteer coordination",
+    "Activity planning",
+    "Financial assistance research",
+    "Classroom management"
+  ],
+  "experience": [
+    {
+      "company": "The Wesley Center",
+      "role": "Counseling Supervisor",
+      "duration": "1999-2002",
+      "responsibilities": [
+        "Determined work placement for 150 special needs adult clients.",
+        "Maintained client databases and records.",
+        "Coordinated client contact with local healthcare professionals on a monthly basis.",
+        "Managed 25 volunteer workers."
+      ]
+    },
+    {
+      "company": "Rainbow Special Care Center",
+      "role": "Client Specialist",
+      "duration": "1997-1999",
+      "responsibilities": [
+        "Coordinated service assignments for 20 part-time counselors and 100 client families.",
+        "Oversaw daily activity and outing planning for 100 clients.",
+        "Assisted families of special needs clients with researching financial assistance and healthcare."
+      ]
+    },
+    {
+      "company": "Cowell Elementary",
+      "role": "Teacher’s Assistant",
+      "duration": "1996-1997",
+      "responsibilities": [
+        "Assisted teachers with managing daily classroom activities.",
+        "Oversaw daily and special student activities."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Arkansas at Little Rock",
+      "degree": "BS in Early Childhood Development",
+      "year": "1999"
+    },
+    {
+      "institution": "University of Arkansas at Little Rock",
+      "degree": "BA in Elementary Education",
+      "year": "1998"
+    }
+  ]
+}

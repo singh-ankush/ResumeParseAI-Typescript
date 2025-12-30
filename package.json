@@ -1,0 +1,22 @@
+{
+  "name": "ai-lib",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "install-deps": "npm install",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/datagen.js",
+    "dev": "ts-node ./datagen.ts"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "dotenv": "^16.0.3",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "ts-node": "^10.9.1",
+    "@types/node": "^20.5.1",
+    "@types/node-fetch": "^2.6.2"
+  }
+}
